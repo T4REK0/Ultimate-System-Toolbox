@@ -1,0 +1,17 @@
+psutil
+speedtest-cli
+Pillow
+opencv-python
+pytesseract
+qrcode
+screen-brightness-control
+pycaw
+comtypes
+wmi
+pywin32
+netifaces
+scapy
+py-cpuinfo
+gputil
+humanize
+requests
